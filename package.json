@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "bower": "^1.5.3",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "sleep": "^3.0.0"
   }
 }
