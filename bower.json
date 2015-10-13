@@ -1,0 +1,20 @@
+{
+  "name": "f2e-workflow-labs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/OrtonLin/f2e-workflow-labs",
+  "authors": [
+    "jackeir <jackeir@gmail.com>"
+  ],
+  "description": "none",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
