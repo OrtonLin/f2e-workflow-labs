@@ -35,3 +35,15 @@ gulp.task('output2', function(){
 	}) 
 	.pipe(gulp.dest('output2'));
 });
+
+
+gulp.task('output3', function() {
+	gulp
+		.src([
+			'assets/vendor/**/*.js',
+			'assets/vendor/**/*.css'
+		], {
+			base: 'assets/vendor'
+		})
+		.pipe(gulp.dest('output3'));
+})
